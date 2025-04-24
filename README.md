@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm MohammadMahdi
 
-<!--
-**mmmp-oo/mmmp-oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎒 Teen self-taught developer💻 Passionate about Python and building creative tools🧠 Interested in programming languages and graphical UIs
 
-Here are some ideas to get you started:
+🧰 Skills & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python (tkinter, pygame)
+
+GUI Design
+
+Creative problem-solving
+
+Team collaboration
+
+🚀 On a journey to learn and build cool things
+
+I enjoy experimenting with new ideas, working with my team, and exploring the world of coding. Always open to challenges and looking for ways to grow as a developer!
+
+📫 Contact
+
+GitHub: mmmp-oo
+
