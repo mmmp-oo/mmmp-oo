@@ -19,4 +19,5 @@ I enjoy experimenting with new ideas, working with my team, and exploring the wo
 📫 Contact
 
 GitHub: mmmp-oo
+email: mmmp.oo.chat@gmail.com
 
